@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning computer vision
 - 📫 How to reach me [twitter](https://twitter.com/gohankaiju23/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gohankaiju&theme=ambient_gradient&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 - 😄 Pronouns: ...
