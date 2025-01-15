@@ -3,10 +3,6 @@
 - 🌱 I’m currently learning computer vision
 - 📫 How to reach me [twitter](https://twitter.com/gohankaiju23/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gohankaiju&theme=default&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 <!---
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
